@@ -1,0 +1,9 @@
+We are using a dummy variable to perform multi-regression
+in the dataset consists of SAT,GPA,attendance
+Attandance is a cateogircal data.
+We will insert yes if attendance is >60 otherwise
+no
+we need to convert the cateogorical data into numeric data or raw data
+we will use python mapping tecnique to perform the conversion the attendance column yes=1 and no=0 will be converted
+we use data.describe() to get the swat of the data
+we need to calculate GPA based on the SAT score and the attandance.
